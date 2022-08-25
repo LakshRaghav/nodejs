@@ -36,7 +36,7 @@ module.exports = {
    }
     catch(err)
     {
-        response.status = "failed"
+        response.status = "hello lakshay"
         response.message = err;
     }
         return response;
